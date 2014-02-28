@@ -1,1 +1,2 @@
-Honestly, I couldn't think of which tea to drink to I just made an app that does it for me. I threw this script into my bin directory and put in an alias that maps the word 'tea' to the script. I can specify whether I want caffeinated or decaffeinated tea with the -d and -c flags.
+# Tea Selector
+I couldn't decide which tea I wanted to drink from my collection so I whipped up this script that decides for me. I threw it into my bin directory and created an alias that maps the word 'tea' to the command that runs the script. I can specify whether I want caffeinated or decaffeinated tea by using -d and -c flags.

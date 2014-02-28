@@ -11,7 +11,9 @@ teas = [
 	'Santa\'s Secret (Medium)',
 	'Glitter & Gold (Medium)',
 	'Coffee Pu\'erh (Medium)',
-	'Maharaja Chai Oolong and Samurai Chai Mate Mix (Medium)'], 
+	'Maharaja Chai Oolong and Samurai Chai Mate Mix (Medium)',
+	'Tetley Mint Green Tea ',
+	'Tetley Chai '], 
 	# non-caffeinated teas
 	['Bravissimo (None)',
 	'Chrysanthemum (None)',
@@ -24,7 +26,15 @@ teas = [
 	'Pink Lemonade (None)',
 	'Mamma Mia (None)',
 	'Organic Super Ginger (None)',
-	'Forever Nuts (None)']]
+	'Forever Nuts (None)'
+	'Tetley Revive (None)',
+	'Tetley Warmth (None)',
+	'Tetley Mojito (None)',
+	'Tetley Dream (None)',
+	'Tetley Cleanse (None)',
+	'Tetley Soothe (None)',
+	'Sleepy Time (None)',
+	'Ginger Lemon (None)']]
 
 # store flags inputted from terminal to allow the user to specify if he/she wants the selector to choose caffeinated, non-caffeinated, or both types of teas.
 parser = argparse.ArgumentParser(description='From the teas in the list defined in tea.py, produces a random tea for you to make.')
