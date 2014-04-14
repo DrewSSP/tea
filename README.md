@@ -8,10 +8,10 @@ Installation Instructions
 
 Just copy the tea.py script into a director and create a permanent alias that will run the script in your terminal. I chose the alias `tea`.
 
-You'll notice that `tea.py` contains a multidimensional array of teas. the first group of teas should only contain teas with caffein and the second group should only contain those without caffein. Feel free to change the list for your own uses.
+You'll notice that `tea.py` contains a multidimensional array of teas. the first group of teas should only contain teas with caffeine and the second group should only contain those without caffeine. Feel free to change the list for your own uses.
 
 Parameters & Flags
 ------------------
 
-* `-c`, `--caf`, `--caffeinated` - Only return teas that contain caffein
-* `-d`, `--decaf`, `--decaffeinated` - Only return teas that do not contain caffein
+* `-c`, `--caf`, `--caffeinated` - Only return teas that contain caffeine
+* `-d`, `--decaf`, `--decaffeinated` - Only return teas that do not contain caffeine
